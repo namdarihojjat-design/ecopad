@@ -1,0 +1,11 @@
+{
+  "appId": "ir.timzo.app",
+  "appName": "Timzo App",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://test.timzo.ir",
+    "cleartext": true
+  }
+}
+ 
